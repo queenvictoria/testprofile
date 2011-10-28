@@ -6,5 +6,5 @@ includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.
 
 projects[testprofile][type] = "profile"
 projects[testprofile][download][type] = "git"
-projects[testprofile][download][url] = "git@github.com:queenvictoria/testprofile.git"
+projects[testprofile][download][url] = "http://github.com/queenvictoria/testprofile.git"
 projects[testprofile][download][branch] = "master"
