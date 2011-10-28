@@ -6,6 +6,6 @@ core = 7.x
 version = "0.2"
 
 ; INSTALL FILES
-files[] = "test-profile.profile"
+files[] = "testprofile.profile"
 
 dependencies[] = nice_menus
