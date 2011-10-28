@@ -1,0 +1,11 @@
+; part of our profile
+
+name = Test
+description = Extend the Buildkit profile
+core = 7.x
+version = "0.2"
+
+; INSTALL FILES
+files[] = "test-profile.profile"
+
+dependencies[] = nice_menus

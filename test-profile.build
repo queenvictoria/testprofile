@@ -1,0 +1,8 @@
+; stub file
+
+includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/distro.make
+
+projects[test-profile][type] = "profile"
+projects[test-profile][download][type] = "git"
+projects[test-profile][download][url] = "ssh://gitrepo/murray-drupal.git"
+projects[test-profile][download][branch] = "master"
