@@ -1,6 +1,7 @@
 ; stub file
 
-includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/distro.make
+; includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/distro.make
+includes[] = https://raw.github.com/queenvictoria/monograph/master/monograph.build
 
 projects[testprofile][type] = "profile"
 projects[testprofile][download][type] = "git"
