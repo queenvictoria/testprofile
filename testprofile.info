@@ -10,5 +10,5 @@ files[] = "testprofile.profile"
 
 dependencies[] = nice_menus
 
-; from our parent
+; from our parent - this is what fails
 dependencies[] = devel
