@@ -2,7 +2,7 @@
 
 includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/distro.make
 
-projects[test-profile][type] = "profile"
-projects[test-profile][download][type] = "git"
-projects[test-profile][download][url] = "git@github.com:queenvictoria/testprofile.git"
-projects[test-profile][download][branch] = "master"
+projects[testprofile][type] = "profile"
+projects[testprofile][download][type] = "git"
+projects[testprofile][download][url] = "git@github.com:queenvictoria/testprofile.git"
+projects[testprofile][download][branch] = "master"
