@@ -9,4 +9,6 @@ version = "0.2"
 files[] = "testprofile.profile"
 
 dependencies[] = nice_menus
-dependencies[] = views
+
+; from our parent
+dependencies[] = devel
