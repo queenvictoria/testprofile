@@ -1,6 +1,6 @@
 ; stub file
 
-includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/distro.make
+includes[testprofile] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/distro.make
 ; inheriting buildkit works 
 ; includes[] = https://raw.github.com/queenvictoria/monograph/master/monograph.build
 
